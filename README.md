@@ -19,10 +19,10 @@ This project analyzes Nobel Prize data to uncover trends in award categories, co
 ## Screenshots
 
 ### Screenshot 1: Nobel Prize Category Distribution
-![Category Distribution](./modal.jpg.png)
+![Category Distribution](./modal.jpg)
 
 ### Screenshot 2: Laureate Demographics Over Time
-![Demographics Trends](./modal1.png)
+![Demographics Trends](./medal1.jpg)
 
 ---
 
